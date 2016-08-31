@@ -1,2 +1,2 @@
 # shop
-Simple shop with session storage and user authentication
+Simple shopping cart with session storage and user authentication
